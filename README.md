@@ -6,13 +6,6 @@
 [![Python Verification](https://img.shields.io/badge/Python-3.10%2B-yellow.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/Academic-Submission-green.svg)]()
 
-> **Academic Submission Package**  
-> Candidate / Student: `[YourName / Student Candidate Placeholder]`  
-> Email: `unknonfiction@gmail.com`  
-> Department: Department of Computer Science & Software Engineering  
-> Module: Applied Cryptography, Information Security & Software Architecture  
-> Date: October 2026
-
 ---
 
 ## 1. Project Overview & Description
