@@ -1,0 +1,22 @@
+# =============================================================================
+# CipherVault - Python Reference Implementation & Verification Dependencies
+# Academic Submission Deliverable: FILE 2 (requirements.txt)
+#
+# NOTE ON ARCHITECTURE:
+# The primary production application is a full-stack Web Application built on
+# Next.js 15, React 19, and TypeScript (npm dependencies are maintained in package.json).
+# The Python dependencies listed below provide the environment for running the
+# companion Python verification testbench, CLI console, and automated test suite.
+# =============================================================================
+
+# Optional enhanced terminal formatting & table displays for Python testbench
+tabulate>=0.9.0
+colorama>=0.4.6
+
+# Optional web API framework if exposing the Python cryptographic engine as a microservice
+fastapi>=0.110.0
+uvicorn>=0.29.0
+pydantic>=2.6.0
+
+# Optional document generation tools used during academic report authoring
+python-docx>=1.1.0
